@@ -1,0 +1,21 @@
+{
+  "name": "multiapp",
+  "version": "1.0.0",
+  "description": "An app for recording websites",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "keywords": [
+    "Bookmarker"
+  ],
+  "author": "David OKS",
+  "license": "ISC",
+  "dependencies": {
+    "bookmarker": "^0.0.1"
+  },
+  "devDependencies": {
+    "electron": "^16.0.2"
+  }
+}
